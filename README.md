@@ -47,16 +47,34 @@ NiX-Joy 的技术分享资料
                 <a href="java/servlet重定向问题/Servlet重定向问题.md">Servlet重定向问题</a>
             </blockquote>
             <blockquote>
+                <a href="GA/贝叶斯网络与神经网络/BayesNetwork.md">贝叶斯网络</a>
+            </blockquote>
+            <blockquote>
+                <a href="GA/knapsackProblem/KnapsackProblem.md">背包问题</a>
+            </blockquote>
+		      	<blockquote>
+                <a href="java/GC/GCmd.md">GC垃圾回收器</a>
+            </blockquote>
+            <blockquote>
                 <a href="Linux/Linux间进程通信/Linux间进程通信.md">Linux间进程通信</a>
+            </blockquote>
+            <blockquote>
+                <a href="js/JS预编译过程.md">JS预编译过程</a>
             </blockquote>
         </details>
         <details>
-            <summary>10</summary>
-             <blockquote>
-                <a href="GA/贝叶斯网络与神经网络/BayesNetwork.md">贝叶斯网络</a>
+            <summary>11</summary> 
+            <blockquote>
+                <a href="algorithm\KMP\KMP.md">kmp</a>
+            </blockquote>
+            <blockquote>
+                <a href="GA\遗传算法\GeneticAlgorithms.md">遗传算法</a>
+            </blockquote>
+			      <blockquote>
+                <a href="GA\分支界限法\分支界限法.md">分支界限法</a>
             </blockquote>
         </details>
-     </blockquote>
+	</blockquote>
 </details>
 <details>
     <summary>2017</summary>
